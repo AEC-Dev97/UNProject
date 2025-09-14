@@ -1,0 +1,7 @@
+
+#include "Core/Logs.h"
+DEFINE_LOG_CATEGORY(LogUI);
+DEFINE_LOG_CATEGORY(LogScene);
+
+DEFINE_LOG_CATEGORY(LogMode);
+DEFINE_LOG_CATEGORY(LogInputSys);
